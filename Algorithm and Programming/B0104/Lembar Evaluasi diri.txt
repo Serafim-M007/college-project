@@ -1,0 +1,4 @@
+PERTANYAAN EVALUASI DIRI
+Akan terjadi Error, dikarenakan Python membaca UMUR sebagai str, bukan int.
+Karena Tuple bersifat berurutan dan tetp, tidak bisa ditambah ataupun dikurangi.
+Set data type.
